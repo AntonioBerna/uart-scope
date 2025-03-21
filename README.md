@@ -77,7 +77,7 @@ To run the Qt application you need the following command:
 obtain the following result:
 
 <p align="center">
-    <img src=".github/imgs/qt-gui.png" alt="uart-scope" width="500">
+    <img src=".github/imgs/qt-gui.png" alt="uart-scope">
 </p>
 
 The Qt application has a simple and intuitive interface. The main window is divided into two parts: the right part contains the controls for the oscilloscope, while the left part contains the graphical representation of the waveforms.
@@ -136,7 +136,7 @@ In this test, I created a simple circuit with a switch and two red and green LED
 Below is the assembly diagram for this test:
 
 <p align="center">
-    <img src=".github/imgs/toggle-switch_bb.png" alt="Toggle Switch" width="500">
+    <img src=".github/imgs/toggle-switch_bb.png" alt="Toggle Switch">
 </p>
 
 <details>
@@ -156,7 +156,7 @@ In this test, I created a simple circuit with a 555 timer to generate a square w
 Below is the assembly diagram for this test:
 
 <p align="center">
-    <img src=".github/imgs/clock-module_bb.png" alt="Clock Module" width="500">
+    <img src=".github/imgs/clock-module_bb.png" alt="Clock Module">
 </p>
 
 <details>

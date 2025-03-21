@@ -1,1 +1,2 @@
 lib/qcustomplot/* linguist-vendored
+*.py linguist-detectable=false

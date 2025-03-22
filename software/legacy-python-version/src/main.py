@@ -1,7 +1,8 @@
-# ----------------------------------------------------------- #
-# TODO: Use QSerialPort instead of pyserial                   #
-# TODO: Re-implement all code in C++ using Qt and QSerialPort #
-# ----------------------------------------------------------- #
+# ------------------------------------------------------------------------ #
+# WARNING: This code is not maintained and is provided for reference only. #
+# A new version of this code is being developed in C++ using Qt.           #
+# Thank you for your understanding.                                        #
+# ------------------------------------------------------------------------ #
 
 import sys
 from PyQt5.QtWidgets import (

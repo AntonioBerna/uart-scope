@@ -1,2 +1,2 @@
-lib/qcustomplot/* linguist-vendored
 *.py linguist-detectable=false
+software/cpp-version/lib/qcustomplot/* linguist-detectable=false
